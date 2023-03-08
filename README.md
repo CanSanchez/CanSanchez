@@ -26,7 +26,9 @@ Let's connect! 🔌
 
 <h2>Technology Stack:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,wordpress,vercel,vscode,sqlite,mui,tailwind,prisma,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,wordpress,vercel,vscode,sqlite,mui,tailwind,prisma,postman,postgres,mysql,aws,firebase&perline=9)](https://skillicons.dev)
+
+
 
 
 <!--

@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi there, my name is Can 🥫
+
+<img src='https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif' />
+
+🔭 I’m currently working on Found, a web app that allows user to list their missing or found pets. 🐶🐱
+
+🌱 I’m currently learning Python and can't wait to get started on Raspberry Pi and Arduino. 👾
+
+⚡ Fun fact: My team and I won a gold medal in a hockey tournament in Abu Dhabi. 🏒
+
+I bring together my passion for both development and design to create beautiful, functional and fun digital experiences. 🦄
+
+I use CSS, HTML, JavaScript, React, and Next.js to create visually stunning and seamless user experiences for web and mobile applications. 
+I'm skilled in Figma, Adobe Creative Suite, WordPress, SQL, and Git version control. 👾
+
+In addition to my work, I'm an active volunteer in my community, including volunteering as a hockey program assistant instructor. 🏒
+
+Let's create something amazing together! or we can grab a drink? 🍻
+
+Let's connect! 🔌
+
+<a href="https://www.linkedin.com/in/cansanchez/">LinkedIn</a> <br />
+<a href='https://cansanchez.ca/'>WordPress Portfolio</a> <br />
+<a href='https://canportfolio.vercel.app/'>Hand-coded Portfolio</a> <br />
+
 
 <!--
 **CanSanchez/CanSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

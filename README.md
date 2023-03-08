@@ -1,4 +1,5 @@
-### Hi there, my name is Can 🥫
+<h1 align='center'>Hi there, my name is Can 🥫</h1>
+
 
 <img src='https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif' />
 
@@ -22,6 +23,10 @@ Let's connect! 🔌
 <a href="https://www.linkedin.com/in/cansanchez/">LinkedIn</a> <br />
 <a href='https://cansanchez.ca/'>WordPress Portfolio</a> <br />
 <a href='https://canportfolio.vercel.app/'>Hand-coded Portfolio</a> <br />
+
+<h2>Technology Stack:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,wordpress,vercel,vscode,sqlite,mui,tailwind,prisma,postman,postgres,mysql)](https://skillicons.dev)
 
 
 <!--
